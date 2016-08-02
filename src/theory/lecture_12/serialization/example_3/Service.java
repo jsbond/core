@@ -8,6 +8,9 @@ import java.io.ObjectOutputStream;
 
 import theory.lecture_12.serialization.Square;
 
+/**
+ * Класс демонстрирует возможность управлять сериализацией с помошью приватных методов writeObject\readObject
+ */
 class Service {
 
     public static void main(String[] args) {
